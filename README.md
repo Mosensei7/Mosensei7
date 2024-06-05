@@ -1,6 +1,6 @@
 ## Hi there 👋
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=blue) 
+
 <!--
 **Mosensei7/Mosensei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
