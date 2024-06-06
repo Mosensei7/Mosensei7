@@ -51,9 +51,18 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
-
+</br>
+</br>
+</br>
+</br>
+</br>
+<hr>
+</br>
+</br>
+</br>
 </div>
-
+ <h2>🏆 GitHub Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
