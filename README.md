@@ -53,6 +53,10 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
 </div>
 <br>
+<br>
+<br>
+<br>
+<br>
 </hr>
  <h2>🏆 GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
