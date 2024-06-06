@@ -33,9 +33,10 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,notion" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,,kali,dart,flutter,docker,electron,emacs,gitlab,gradle,graphql,ai,jenkins,kafka,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,figma,blender,ai,au,ps,tailwind,vscode,androidstudio,eclipse,emacs,vim,r,notion" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,cpp,clion,cmake,codepen,cs,java,gradle,nextjs,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=linux,kali,bash,,dart,flutter,docker,electron,emacs,gitlab,graphql,jenkins,kafka,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,django,pycharm,elixir,Cassandra,raspberrypi,arduino,redux,redis,tensorflow,swift" /><br>
 </div>
 
 
