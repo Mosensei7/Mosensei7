@@ -44,7 +44,7 @@
 <p><a href="https://buymeacoffee.com/mohsen_ibrahim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mohsen_ibrahim" /></a></p><br><br>
 <hr/>
 
-<div>
+<div align=left>
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p>
 
