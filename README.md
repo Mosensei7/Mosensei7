@@ -44,15 +44,16 @@
 <p><a href="https://buymeacoffee.com/mohsen_ibrahim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mohsen_ibrahim" /></a></p><br><br>
 <hr/>
 
-<div align=left>
-#📊 GitHub Stats:
+<div a>
+<h2>📊 GitHub Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
 </div>
- <h3>🏆 GitHub Trophies</h3>
+</hr>
+ <h2>🏆 GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
 
 ### ✍️ Random Dev Quote
