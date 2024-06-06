@@ -43,15 +43,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/mohsen_ibrahim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mohsen_ibrahim" /></a></p><br><br>
 <hr/>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7)<br/>
-![]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p> <br/>
-![]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p><br/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mosensei7&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosensei7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mosensei7&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-
-<br/><br/>
+---
