@@ -33,10 +33,8 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,androidstudio,eclipse,emacs,vim,r,notionnodejs,javascript,typescript,express,c,cpp,clion,cmake,codepen,cs,java,gradle,nextjs" />
-  <!--  <img src="https://skillicons.dev/icons?i=" /><br> -->
-    <img src="https://skillicons.dev/icons?i=linux,kali,bash,swift,dart,flutter,firebase,docker,electron,graphql,jenkins,kafka,kubernetes" /><br>
-    <img src="https://skillicons.dev/icons?i=python,flask,django,pycharm,elixir,npm,postmanpostgres,mysql,mongodb,Cassandra,raspberrypi,arduino,redux,redis,tensorflow,figma,blender,ai,au,ps,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,androidstudio,eclipse,emacs,vim,r,notionnodejs,javascript,typescript,express,c,cpp,clion,cmake,codepen,cs,java,gradle,nextjs,linux,kali,bash,swift,dart,flutter,firebase,docker,electron,graphql,jenkins,kafka,kubernetes,python,flask,django,pycharm,elixir,npm,postmanpostgres,mysql,mongodb,Cassandra,raspberrypi,arduino,redux,redis,tensorflow,figma,blender,ai,au,ps,pr" />
+
 </div>
 
 
