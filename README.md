@@ -33,7 +33,7 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,androidstudio,eclipse,emacs,vim,r,notion,nodejs,javascript,typescript,express,c,cpp,clion,cmake,codepen,cs,java,gradle,nextjs,linux,kali,bash,swift,dart,flutter,firebase,docker,electron,graphql,jenkins,kafka,kubernetes,python,flask,django,pycharm,elixir,npm,postman,ansible,terraform,postgres,mysql,sqlite,mongodb,cassandra,raspberrypi,arduino,redux,redis,opencv,tensorflow,figma,blender,ai,au,ps,pr,xd" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,androidstudio,eclipse,emacs,vim,r,notion,nodejs,javascript,typescript,vue,angular,express,c,cpp,clion,cmake,codepen,cs,java,gradle,nextjs,linux,kali,bash,swift,dart,flutter,firebase,docker,electron,graphql,jenkins,kafka,kubernetes,python,flask,django,pycharm,elixir,npm,postman,terraform,ansible,postgres,mysql,sqlite,mongodb,cassandra,raspberrypi,arduino,redux,redis,opencv,tensorflow,figma,blender,ai,au,ps,pr,xd" />
 
 </div>
 
