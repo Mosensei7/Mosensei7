@@ -44,9 +44,9 @@
 <p><a href="https://buymeacoffee.com/mohsen_ibrahim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mohsen_ibrahim" /></a></p><br><br>
 <hr/>
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p> <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p><br/>
 
 
 ## 🏆 GitHub Trophies
