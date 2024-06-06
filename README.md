@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosensei7&label=Profile%20views&color=0e75b6&style=flat" alt="mosensei7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
+
 
 - 🔭 I’m currently working on **TrainLine**
 
@@ -53,7 +53,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
 </div>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mosensei7&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
