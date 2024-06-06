@@ -47,10 +47,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p>
+  <hr/>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p></div>
 </div>
 
 <br/><br/>
