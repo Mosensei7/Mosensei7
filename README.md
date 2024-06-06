@@ -46,8 +46,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosensei7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
