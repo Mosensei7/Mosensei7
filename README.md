@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&center=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Mohsen+Ibrahim" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Mohsen+Ibrahim)](https://git.io/typing-svg)
 <h3 align="center">Software Engineer Who aspires to be brilliant and proficient in every piece of software he writes.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosensei7&label=Profile%20views&color=0e75b6&style=flat" alt="mosensei7" /> </p>
