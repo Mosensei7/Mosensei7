@@ -45,14 +45,14 @@
 <hr/>
 
 <div align=left>
-# 📊 GitHub Stats:
+#📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosensei7&show_icons=true&locale=en&layout=compact" alt="mosensei7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosensei7&show_icons=true&locale=en" alt="mosensei7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosensei7&" alt="mosensei7" /></p>
 </div>
-## 🏆 GitHub Trophies
+ <h3>🏆 GitHub Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosensei7" alt="mosensei7" /></a> </p>
 
 ### ✍️ Random Dev Quote
