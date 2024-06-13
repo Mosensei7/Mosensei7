@@ -45,7 +45,15 @@
 <hr/>
 
 # 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosensei7&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
 
+<!---
+<a href="https://github.com/oraclebrain/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mosensei7&repo=github-readme-stats&theme=shadow_green" />
+</a>
+----------->
 <p align="center">
   <a href="https://github.com/mosensei7?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mosensei7&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@mosensei7's github-readme-stats">
@@ -55,6 +63,7 @@
   </a>
 </p>
 <br/>
+
 
 <br/>
 <br/>
